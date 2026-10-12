@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pipeline outputs (datasets, figures, exported models)
+work/
+dataset_raw/
+dataset_clean/
+subset_clean/
+export/
+*.keras
+*.h5
+*.tflite
+*.zip
+
+# Credentials
+kaggle.json
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

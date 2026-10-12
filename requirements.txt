@@ -1,0 +1,11 @@
+# The notebook was executed on Google Colab (Python 3.12, TensorFlow 2.19.0).
+tensorflow>=2.16
+numpy
+pandas
+matplotlib
+Pillow
+opencv-python
+imagehash
+scikit-learn
+umap-learn
+kagglehub
